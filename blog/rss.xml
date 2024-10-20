@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>常州日新阻燃事业部 Blog</title>
-        <link>https://rocky-sir.github.io/blog</link>
+        <link>https://rocky-sir.github.io/xinyuanjie/blog</link>
         <description>常州日新阻燃事业部 Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[8月26欢迎文章]]></title>
-            <link>https://rocky-sir.github.io/blog/welcome</link>
-            <guid>https://rocky-sir.github.io/blog/welcome</guid>
+            <link>https://rocky-sir.github.io/xinyuanjie/blog/welcome</link>
+            <guid>https://rocky-sir.github.io/xinyuanjie/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus的博客 是一个小而美的博客.]]></description>
             <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus的博客</a> 是一个小而美的博客.</p>
@@ -24,7 +24,7 @@
 <li><code>2019-05-30-welcome/index.md</code></li>
 </ul>
 <p>博客文章文件夹可以方便地共同定位博客文章图像：</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://rocky-sir.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://rocky-sir.github.io/xinyuanjie/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>博客也支持标签！</p>
 <p><strong>如果你不想要博客</strong>：只需删除此目录，并在Docusaurus配置中使用“blog<!-- -->:false<!-- -->”。</p>]]></content:encoded>
             <category>Facebook</category>
@@ -33,8 +33,8 @@
         </item>
         <item>
             <title><![CDATA[8月1的文章]]></title>
-            <link>https://rocky-sir.github.io/blog/mdx-blog-post</link>
-            <guid>https://rocky-sir.github.io/blog/mdx-blog-post</guid>
+            <link>https://rocky-sir.github.io/xinyuanjie/blog/mdx-blog-post</link>
+            <guid>https://rocky-sir.github.io/xinyuanjie/blog/mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[博客文章支持Docusaurus Markdown功能，例如MDX.]]></description>
             <content:encoded><![CDATA[<p>博客文章支持<a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown功能</a>，例如<a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
@@ -47,8 +47,8 @@
         </item>
         <item>
             <title><![CDATA[5月29的文章]]></title>
-            <link>https://rocky-sir.github.io/blog/long-blog-post</link>
-            <guid>https://rocky-sir.github.io/blog/long-blog-post</guid>
+            <link>https://rocky-sir.github.io/xinyuanjie/blog/long-blog-post</link>
+            <guid>https://rocky-sir.github.io/xinyuanjie/blog/long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
             <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
@@ -59,8 +59,8 @@
         </item>
         <item>
             <title><![CDATA[5月28文章]]></title>
-            <link>https://rocky-sir.github.io/blog/first-blog-post</link>
-            <guid>https://rocky-sir.github.io/blog/first-blog-post</guid>
+            <link>https://rocky-sir.github.io/xinyuanjie/blog/first-blog-post</link>
+            <guid>https://rocky-sir.github.io/xinyuanjie/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[他会受苦的。。。]]></description>
             <content:encoded><![CDATA[<p>他会受苦的。。。</p>

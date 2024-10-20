@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://rocky-sir.github.io/blog</id>
+    <id>https://rocky-sir.github.io/xinyuanjie/blog</id>
     <title>常州日新阻燃事业部 Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://rocky-sir.github.io/blog"/>
+    <link rel="alternate" href="https://rocky-sir.github.io/xinyuanjie/blog"/>
     <subtitle>常州日新阻燃事业部 Blog</subtitle>
-    <icon>https://rocky-sir.github.io/img/favicon.ico</icon>
+    <icon>https://rocky-sir.github.io/xinyuanjie/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[8月26欢迎文章]]></title>
-        <id>https://rocky-sir.github.io/blog/welcome</id>
-        <link href="https://rocky-sir.github.io/blog/welcome"/>
+        <id>https://rocky-sir.github.io/xinyuanjie/blog/welcome</id>
+        <link href="https://rocky-sir.github.io/xinyuanjie/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus的博客 是一个小而美的博客.]]></summary>
         <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus的博客</a> 是一个小而美的博客.</p>
@@ -23,7 +23,7 @@
 <li><code>2019-05-30-welcome/index.md</code></li>
 </ul>
 <p>博客文章文件夹可以方便地共同定位博客文章图像：</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://rocky-sir.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://rocky-sir.github.io/xinyuanjie/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>博客也支持标签！</p>
 <p><strong>如果你不想要博客</strong>：只需删除此目录，并在Docusaurus配置中使用“blog<!-- -->:false<!-- -->”。</p>]]></content>
         <author>
@@ -40,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[8月1的文章]]></title>
-        <id>https://rocky-sir.github.io/blog/mdx-blog-post</id>
-        <link href="https://rocky-sir.github.io/blog/mdx-blog-post"/>
+        <id>https://rocky-sir.github.io/xinyuanjie/blog/mdx-blog-post</id>
+        <link href="https://rocky-sir.github.io/xinyuanjie/blog/mdx-blog-post"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[博客文章支持Docusaurus Markdown功能，例如MDX.]]></summary>
         <content type="html"><![CDATA[<p>博客文章支持<a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown功能</a>，例如<a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
@@ -58,8 +58,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[5月29的文章]]></title>
-        <id>https://rocky-sir.github.io/blog/long-blog-post</id>
-        <link href="https://rocky-sir.github.io/blog/long-blog-post"/>
+        <id>https://rocky-sir.github.io/xinyuanjie/blog/long-blog-post</id>
+        <link href="https://rocky-sir.github.io/xinyuanjie/blog/long-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
@@ -74,8 +74,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[5月28文章]]></title>
-        <id>https://rocky-sir.github.io/blog/first-blog-post</id>
-        <link href="https://rocky-sir.github.io/blog/first-blog-post"/>
+        <id>https://rocky-sir.github.io/xinyuanjie/blog/first-blog-post</id>
+        <link href="https://rocky-sir.github.io/xinyuanjie/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[他会受苦的。。。]]></summary>
         <content type="html"><![CDATA[<p>他会受苦的。。。</p>
